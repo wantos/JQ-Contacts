@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	background-color:  #808000;
+}
+h1{
+	color: gray;
+}
+#form-group {
+	width: 60%;
+	height: auto;
+	padding: 12px;
+	margin: 0 auto 0 auto;
+}
